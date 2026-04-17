@@ -2,7 +2,7 @@ public class NadavSimon
 {
     public static void main(String[] args) {
         for (int i=1;i<=10; i++) {
-        System.out.println("Nadav Simon ..."+i);
+        System.out.println("Nadav Limon ..."+i);
         }
     }   
 }
